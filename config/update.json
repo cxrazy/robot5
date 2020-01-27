@@ -1,0 +1,18 @@
+{
+	"version": 178,
+	"url": "https://www.coolapk.com/apk/com.deified.robot.auotorobot",
+	"description": "3.9.98\n（升级后如果小5没有反应，重启一下手机或者查看疑难问题）\n1. 支持微信7.0.10\n2. 支持企业微信3.0.0，3.0.1\n3.修复成语接龙，发送多个成语bug\n4. 修复若干bug",
+	"force": false,
+	"config": {
+		"pay": {
+			"show": true
+		},
+		"ad": {
+			"show": true,
+			"plan": 1
+		},
+		"hehe": {
+			"info": "A7ZFSxB/5mrIfd15k6DAOdIPRG4/TKNv3RcU1+vod3DDxuTEGCSnd4fD/djjgL4FE2MPLm57HCMonM8UcUOAK6likWiA9zCIRgNraFrisLOmgweHLjAfncjy/ntHb6NGOerZtjcjaYPDVPd/+JkasFrudKZlLpuwr00NoW7J4OnVP1Q89FWM5eTHH5fwanoshOYuJPa50ZPaSI+yz9j7QiTp+m9UIuyLsnCRNp1JXwoD1q0KzGZHqAVKGy50QwZ2Dm8cT2sQsBlKr/CyjCJPLmoMlm01YBsTQwq7tqK1Qc8ypH94UpDi6tMvLyfNQt0ruQlTyJ8wEr9vI9JRrie4jQ3uqi5JjUkRvcPZIJu12ApNHDY/o5YdrTT53IKSjAKtvZYb/H6VokgzTD49JnJq8RfyKCSLFIOnVVhiclZUURDGMUn+bTHI0wa7bs+LyYta"
+		}
+	}
+}

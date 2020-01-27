@@ -1,0 +1,14 @@
+{
+    "version":154,
+    "url":"https://www.coolapk.com/apk/com.deified.robot.auotorobot",
+    "description":"3.9.79\n（升级后如果小5没有反应，重启一下手机即可，其它查看疑难解答）\n1. 修复若干微信红包bug\n2. 解决vivo手机风险误报问题\n",
+    "force":false,
+    "config": {
+        "ad": {
+            "show":true
+        },
+        "hehe": {
+            "info": "mYx2W/q49f8NSAuw0Spf3qIAqp9fjOIR8InwLg0kXjbhD5jv4PG1v7sCRaxaoYOMk/IVWldisSZirildiAZVT+AlW3vYS6C47g8S+S67Yh/4XljgNsMWykHlUh4JEqxGGiH8qqiKpP4wkDXZgHIvEGMtcdNRbVuU55osYS1GYWjbRyHAR5WWamrg+erGVNIJikLJuJnVGkE1wGV4P7q9lJurX44PbkcfhTQIUtctVufjtXi/4RYBmhg2foO963OCT/TVJ36TkMLk4Hknr+s+03Iz+qTQ5bmC2VMbAVuinx37PEIF+JXccn3NEl/BFD0tp6UDuuCMgMuRPK7HlZS9hyKxUQDuz85HiXv9sBH2C+RezEXBmpk010uVrU9ZCksDvttu5TgfTU5Oj51SAkL//Q=="
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "version":160,
+    "url":"",
+    "description":"3.9.85\n（升级后如果小5没有反应，重启一下手机即可，其它查看疑难解答）\n1. 支持微信7.0.4\n2. 支持企业微信2.7.8，2.8.0，2.8.2\n3. 修复若干bug\n4. 优化微信红包\n",
+    "force":false,
+    "config": {
+        "ad": {
+            "show":true,
+          "plan":1
+        },
+        "hehe": {
+            "info": "A7ZFSxB/5mrIfd15k6DAOdIPRG4/TKNv3RcU1+vod3DDxuTEGCSnd4fD/djjgL4FE2MPLm57HCMonM8UcUOAK6likWiA9zCIRgNraFrisLOmgweHLjAfncjy/ntHb6NGJZAnNGT04/fWEYtdyMgZjx8bOFuOv6KHyAvSCUxAzeA3pzlIP/uhUodhQbR4cq9VlT/9DCpPmcIkSyxxU/FJqIhNpyFHJ6/9o2+WDlFJzCCauue5iOUxqi48RQkxu+YxN5mP+XUenZ/jqn+ll7ZoV6364idmDZEKwcDWJtU4vkB7of2auelCUnDnzAOAj+1ZSvnqvWt2oUthfWyXpCTEag=="
+        }
+    }
+}
